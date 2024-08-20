@@ -9,7 +9,7 @@ int main() {
     cin >> a ;
     g = a*a;
 
-    if(g < 5){
+    if(a < 5){
         cout << g << endl << "tiny";
 
     }
