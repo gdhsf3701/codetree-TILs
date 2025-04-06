@@ -13,6 +13,6 @@ int main() {
     a = a+temp;
     b = b - temp;
 
-    cout << a << b << c ;
+    cout << a << endl << b  << endl << c ;
     return 0;
 }
