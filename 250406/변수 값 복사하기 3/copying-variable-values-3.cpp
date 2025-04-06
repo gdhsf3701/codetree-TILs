@@ -12,5 +12,7 @@ int main() {
     c = a;
     a = a+temp;
     b = b - temp;
+
+    cout << a << b << c ;
     return 0;
 }
